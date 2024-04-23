@@ -1,0 +1,3 @@
+INSERT INTO `users` (`auth_id`, `course_id`, `institution_id`, `created`, `deleted`, `email`, `first_name`, `id`, `image`, `is_admin`, `language`, `last_access`, `last_name`, `login_from`, `password`, `role`, `salt`, `status`, `time_accommodation`, `token`, `updated`, `username`, `validation_code`) VALUES ('','0','0','2023-07-20 08:50:37','1','mercyj1@gmail.com','JSS 1 MERCY','4','','0','English','2023-07-20 00:50:37','STUDENT','','4b197a7656687c7e3cc5e66e70fdb2ca1f29a465053246897ed66c3c7313a775ce764be29cec566985e233be7af82c0ec943361e60015b68c28d7c070b3b0193','user','2ca9ceeff3fbdaab8b544b25eb03712f0385f37bfc13cb09b1f580048f1dd0337a7736886766bedb577304c2feff98bdc2715b53d08ee085c330f82e75ece29b','0','1','','2023-10-09 16:26:06','mercyj1',''); 
+ 
+ 

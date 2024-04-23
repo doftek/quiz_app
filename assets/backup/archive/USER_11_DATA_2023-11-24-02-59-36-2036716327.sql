@@ -1,0 +1,3 @@
+INSERT INTO `users` (`auth_id`, `course_id`, `institution_id`, `created`, `deleted`, `email`, `first_name`, `id`, `image`, `is_admin`, `language`, `last_access`, `last_name`, `login_from`, `password`, `role`, `salt`, `status`, `time_accommodation`, `token`, `updated`, `username`, `validation_code`) VALUES ('','0','0','2023-10-09 16:40:19','1','cbtuser@gmail.com','CBT','11','favicon1.png','0','English','2023-10-09 08:40:19','USER','','62fcfbae186c9fc334ac5ec5ff28de1399ed3a8175d84cfd79548bdd5cc41918d9fc46c9956e4b934464cec523e396c54cd7bfa63959d1303ca9f18a23ca99af','user','ed14722c9a32de0b2fc72c6abf7efd0cc474dc7368bb17423b96b3fb428f42aa93fa148c232b4d1ad6370e587b6293e825e69d9e89ee1530922b1bedaf0be9c0','0','1','','2023-11-24 14:59:36','cbtuser',''); 
+ 
+ 

@@ -1,0 +1,3 @@
+INSERT INTO `users` (`auth_id`, `course_id`, `institution_id`, `created`, `deleted`, `email`, `first_name`, `id`, `image`, `is_admin`, `language`, `last_access`, `last_name`, `login_from`, `password`, `role`, `salt`, `status`, `time_accommodation`, `token`, `updated`, `username`, `validation_code`) VALUES ('','0','0','2023-08-02 10:21:05','1','fvcollege@gmail.com','FVC','9','FVC_Logo.png','0','English','2023-08-02 02:21:05','GEANCO CANDIDATE','','ace1837dbb2560b533e7135bb0f564a4ec27c58cf940dc6cfa8de4baf3bfa626dfd8f169e4fcf6e5c274c66faefdb807fd336444bb545a3c5ad441c19c8068ab','user','615695c7467c648373cc1439366ad5792ba9d03cd76d25d63ce60750512fc0e07b7fbd7429f59454773737222b04cb9946e88529d46d52b4be10530953bec7f5','0','1','','2023-10-09 16:26:19','fvcexam',''); 
+ 
+ 

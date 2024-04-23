@@ -1,0 +1,3 @@
+INSERT INTO `users` (`auth_id`, `course_id`, `institution_id`, `created`, `deleted`, `email`, `first_name`, `id`, `image`, `is_admin`, `language`, `last_access`, `last_name`, `login_from`, `password`, `role`, `salt`, `status`, `time_accommodation`, `token`, `updated`, `username`, `validation_code`) VALUES ('','0','0','2023-07-20 08:51:31','1','gracej2@gmail.com','JSS 2 GRACE','5','','0','English','2023-07-21 12:54:25','STUDENT','','6def877f0ecfc7d05884a32e53a24f82a964c0fd7e920862f196bd2a8cefd4867dbeda97ac0f39c098d9ddf0ba0afcdc1f90bb4f046c2952cb4c4e3d613ec7b7','user','b3d4b42f0f9e298040d15969a9712a521b6a12cffe4a765a89af819aa48974b16f139a60e1157a2f515cb51b77f52e5c7b59222b00753d5e4ae4c8efc566d30b','0','1','','2023-10-09 16:26:00','gracej2',''); 
+ 
+ 

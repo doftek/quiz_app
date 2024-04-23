@@ -1,0 +1,3 @@
+INSERT INTO `users` (`auth_id`, `course_id`, `institution_id`, `created`, `deleted`, `email`, `first_name`, `id`, `image`, `is_admin`, `language`, `last_access`, `last_name`, `login_from`, `password`, `role`, `salt`, `status`, `time_accommodation`, `token`, `updated`, `username`, `validation_code`) VALUES ('','0','0','2023-11-26 05:18:29','1','math2cbt@gmail.com','JSS 2','16','IMG-20231122-WA0014.jpg','0','English','2023-11-25 20:18:29','Grace','','068f17188963d20c5f628a61358d3f49bb0558077b4b7b9e8b54d718f13f1fc6565362c8eb758f0ff0ef4a219799216b3a03d3314a6259fb9aca186059435852','user','6f0f3e17624b83ac7a3474fe3268b26060bfbb8c41cd2b6a4e8e142ef4287469be5166e6e76992f2324b3f0ff944d9ed855190e4fbb2e0245b2748aa1ddc88ef','0','1','','2024-04-23 13:20:48','math2cbt',''); 
+ 
+ 
